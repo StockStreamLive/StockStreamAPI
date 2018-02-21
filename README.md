@@ -1,2 +1,2 @@
 # StockStreamAPI
-The API service that powers the backend of the StockStream project.
+A service that fronts the data produced by StockStream.
